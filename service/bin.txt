@@ -1,0 +1,3 @@
+mongodb+srv://htfuser:<password>@cluster0.5kmjy.mongodb.net/test
+mongodb+srv://htfuser:htfuser@cluster0.5kmjy.mongodb.net/test
+https://github.com/ProfessorXcommunity/DarkHostHTFhackathon2.0.git
